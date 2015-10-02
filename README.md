@@ -10,7 +10,7 @@ With the onset of [WP REST API](http://wp-api.org/), I need to teach myself how 
 
 ### Can I play too?
 
-Yes! If you'd like to contribute; and learn something along with me... your [issues](https://github.com/gregrickaby/weather-theme/issues) and [PR's](https://github.com/gregrickaby/weather-theme/pulls) are welcome! If you do fork this, then please grab your own (Free) [Forecast.io API](https://developer.forecast.io/) key. Thanks.
+Yes! If you'd like to contribute; and learn something along with me... your [issues](https://github.com/gregrickaby/weather-theme/issues) and [PR's](https://github.com/gregrickaby/weather-theme/pulls) are welcome! If you do fork this, then please grab your own (Free) Forecast.io [API key](https://developer.forecast.io/). Thanks.
 
 ### Support
 This is only a sandbox! Use at your own risk :smiley:
